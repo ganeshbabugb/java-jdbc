@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class MysqlConnect {
     private static final String DATABASE_DRIVER = "com.mysql.cj.jdbc.Driver";
-    private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/student";
+    private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/college";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "toor";
     private static final String MAX_POOL = "250";
